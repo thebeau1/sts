@@ -1,0 +1,8 @@
+{
+  "name": "Sts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "64e928c6"
+}
